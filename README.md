@@ -80,6 +80,13 @@ jupyter notebook notebooks/AllModels_Workbench_WithLoanHistory.ipynb
 - graphviz
 - pydotplus
 
+**Hold-out AUC by model**
+- Random Forest: 0.87  ← selected
+- Decision Tree: 0.75
+- Logistic Regression: 0.74
+- Naïve Bayes: 0.74
+- SVC: 0.72
+
 ## Contributing
 If you would like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
